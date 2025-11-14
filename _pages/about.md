@@ -21,12 +21,12 @@ My research focuses on **Anomaly Detection**, involving **Vision-Language Models
 如果对我的学术研究感兴趣，任何时候都可以联系我，我非常乐意与您进行交流！😊😊😊
 If you are interested in my academic researches, please feel free to contact me at any time, and I will be happy to communicate with you! 😊😊😊
 # 🔥 News
-- *2025.11*: &nbsp;🎉🎉 Our paper "Anomagic: Crossmodal Prompt-driven Zero-shot Anomaly Generation" has been accepted by **AAAI (2026, CCF-A)**.
+- *2025.11*: &nbsp;🎉🎉 Our paper [Anomagic: Crossmodal Prompt-driven Zero-shot Anomaly Generation](https://arxiv.org/pdf/2511.10020) has been accepted by **AAAI (2026, CCF-A)**.
 - *2024.11*: &nbsp;🎉🎉 I received the **National Scholarship for Master’s Students** (the highest scholarship for master’s students).
-- *2024.09*: &nbsp;🎉🎉 Our paper "Prototypical Learning Guided Context-Aware Segmentation Network for Few-Shot Anomaly Detection" has been accepted by **IEEE Transactions on Neural Networks and Learning Systems (TNNLS)**.
-- *2023.11*: &nbsp;🎉🎉 Our paper "A Masked Reverse Knowledge Distillation Method Incorporating Global and Local Information for Image Anomaly Detection" has been accepted by **Knowledge-Based Systems (KBS)**.
-- *2022.11*: &nbsp;🎉🎉 Our paper "A Novel Bio-inspired Algorithm for Global Optimization Problems" has been accepted by **Expert Systems with Applications (ESWA)**.
-- *2021.11*: &nbsp;🎉🎉 Our papers "A Diversified Group Teaching Optimization Algorithm with a Segment-Based Fitness Strategy for UAV Route Planning" and "A Novel Multi-Objective Group Teaching Optimization Algorithm and Its Application to Engineering Design" have been accepted by **Expert Systems with Applications (ESWA)** and **Computers & Industrial Engineering (CAIE)**.
+- *2024.09*: &nbsp;🎉🎉 Our paper [Prototypical Learning Guided Context-Aware Segmentation Network for Few-Shot Anomaly Detection](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=H7a_bi0AAAAJ&citation_for_view=H7a_bi0AAAAJ:2osOgNQ5qMEC) has been accepted by **IEEE Transactions on Neural Networks and Learning Systems (TNNLS)**.
+- *2023.11*: &nbsp;🎉🎉 Our paper [A Masked Reverse Knowledge Distillation Method Incorporating Global and Local Information for Image Anomaly Detection](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=H7a_bi0AAAAJ&citation_for_view=H7a_bi0AAAAJ:9yKSN-GCB0IC) has been accepted by **Knowledge-Based Systems (KBS)**.
+- *2022.11*: &nbsp;🎉🎉 Our paper [A Novel Bio-inspired Algorithm for Global Optimization Problems](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=H7a_bi0AAAAJ&citation_for_view=H7a_bi0AAAAJ:u-x6o8ySG0sC) has been accepted by **Expert Systems with Applications (ESWA)**.
+- *2021.11*: &nbsp;🎉🎉 Our papers [A Diversified Group Teaching Optimization Algorithm with a Segment-Based Fitness Strategy for UAV Route Planning](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=H7a_bi0AAAAJ&citation_for_view=H7a_bi0AAAAJ:u5HHmVD_uO8C) and [A Novel Multi-Objective Group Teaching Optimization Algorithm and Its Application to Engineering Design](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=H7a_bi0AAAAJ&citation_for_view=H7a_bi0AAAAJ:d1gkVwhDpl0C) have been accepted by **Expert Systems with Applications (ESWA)** and **Computers & Industrial Engineering (CAIE)**.
 - *2019.09*: &nbsp;🏆🏆 I received the **National Scholarship for Bachelor’s Students** (the highest scholarship for bachelor’s students).
 # 📝 Publications
 <h2>
@@ -37,32 +37,32 @@ If you are interested in my academic researches, please feel free to contact me 
 <h2 id="Peer-Reviewed Publications" style="color: #2c4a88; padding-top: 60px; margin-top: -60px;">Peer-Reviewed Publications</h2>
 <ol reversed>
   <li id="FA-Pub1">
-    Anomagic: Crossmodal Prompt-driven Zero-shot Anomaly Generation <a href="NULL">[Paper]</a> <a href="NULL">[Code]</a> <br>
+    Anomagic: Crossmodal Prompt-driven Zero-shot Anomaly Generation <a href="https://arxiv.org/pdf/2511.10020">[Paper]</a> <a href="https://github.com/yuxin-jiang/Anomagic">[Code]</a> <br>
     Y. Jiang, W. Luo, H. Zhang, Q. Chen, H. Yao, W. Shen*, Y. Cao* <br>
     <i>AAAI Conference on Artificial Intelligence <strong>(AAAI)</strong></i>. 2026. (CCF-A)
   </li>
   <li id="FA-Pub2">
-    Prototypical Learning Guided Context-Aware Segmentation Network for Few-Shot Anomaly Detection <a href="NULL">[Paper]</a> <a href="NULL">[Code]</a> <br>
+    Prototypical Learning Guided Context-Aware Segmentation Network for Few-Shot Anomaly Detection <a href="https://scholar.google.com/citations?view_op=view_citation&hl=en&user=H7a_bi0AAAAJ&citation_for_view=H7a_bi0AAAAJ:2osOgNQ5qMEC">[Paper]</a> <a href="https://github.com/yuxin-jiang/PCSNet">[Code]</a> <br>
     Y. Jiang, Y. Cao, W. Shen* <br>
     <i>IEEE Transactions on Neural Networks and Learning Systems <strong>(TNNLS)</strong></i>. 2024. (SCI Q1)
   </li>
   <li id="FA-Pub3">
-    A Masked Reverse Knowledge Distillation Method Incorporating Global and Local Information for Image Anomaly Detection <a href="NULL">[Paper]</a> <a href="NULL">[Code]</a> <br>
+    A Masked Reverse Knowledge Distillation Method Incorporating Global and Local Information for Image Anomaly Detection <a href="https://scholar.google.com/citations?view_op=view_citation&hl=en&user=H7a_bi0AAAAJ&citation_for_view=H7a_bi0AAAAJ:9yKSN-GCB0IC">[Paper]</a> <a href="https://github.com/yuxin-jiang/MRKD">[Code]</a> <br>
     Y. Jiang, Y. Cao, W. Shen* <br>
     <i>Knowledge-Based Systems <strong>(KBS)</strong></i>. 2023. (SCI Q1)
   </li>
   <li id="FA-Pub4">
-    A Novel Bio-inspired Algorithm for Global Optimization Problems <a href="NULL">[Paper]</a> <br>
+    A Novel Bio-inspired Algorithm for Global Optimization Problems <a href="https://scholar.google.com/citations?view_op=view_citation&hl=en&user=H7a_bi0AAAAJ&citation_for_view=H7a_bi0AAAAJ:u-x6o8ySG0sC">[Paper]</a> <br>
     Y. Jiang, Q. Wu*, S. Zhu, L. Zhang <br>
     <i>Expert Systems with Applications <strong>(ESWA)</strong></i>. 2022. (SCI Q1)
   </li>
   <li id="FA-Pub5">
-    A Diversified Group Teaching Optimization Algorithm with a Segment-Based Fitness Strategy for UAV Route Planning <a href="NULL">[Paper]</a> <br>
+    A Diversified Group Teaching Optimization Algorithm with a Segment-Based Fitness Strategy for UAV Route Planning <a href="https://scholar.google.com/citations?view_op=view_citation&hl=en&user=H7a_bi0AAAAJ&citation_for_view=H7a_bi0AAAAJ:u5HHmVD_uO8C">[Paper]</a> <br>
     Y. Jiang, Q. Wu*, G. Zhang, S. Zhu, W. Xing <br>
     <i>Expert Systems with Applications <strong>(ESWA)</strong></i>. 2021. (SCI Q1)
   </li>
   <li id="FA-Pub6">
-    A Novel Multi-Objective Group Teaching Optimization Algorithm and Its Application to Engineering Design <a href="NULL">[Paper]</a> <br>
+    A Novel Multi-Objective Group Teaching Optimization Algorithm and Its Application to Engineering Design <a href="https://scholar.google.com/citations?view_op=view_citation&hl=en&user=H7a_bi0AAAAJ&citation_for_view=H7a_bi0AAAAJ:d1gkVwhDpl0C">[Paper]</a> <br>
     S. Zhu, Q. Wu*, Y. Jiang, W. Xing <br>
     <i>Computers & Industrial Engineering <strong>(CAIE)</strong></i>. 2021. (SCI Q1)
   </li>
@@ -70,12 +70,12 @@ If you are interested in my academic researches, please feel free to contact me 
 <h2 id="Manuscripts under Review" style="color: #2c4a88; padding-top: 60px; margin-top: -60px;">Manuscripts under Review</h2>
 <ol reversed>
   <li id="FA-Manuscript1">
-    VTFusion: A Vision-Text Multimodal Fusion Network for Few-Shot Anomaly Detection <a href="NULL">[Paper]</a> <a href="NULL">[Code]</a> <br>
+    VTFusion: A Vision-Text Multimodal Fusion Network for Few-Shot Anomaly Detection <br>
     Y. Jiang, Y. Cao, Y. Cheng, Y. Zhang, W. Shen* <br>
     <i>IEEE Transactions on Cybernetics <strong>(TCYB)</strong></i>. (Under Review, SCI Q1)
   </li>
   <li id="FA-Manuscript2">
-    Bidirectional Adaptive Transformers for Multimodal Anomaly Detection <a href="NULL">[Paper]</a> <br>
+    Bidirectional Adaptive Transformers for Multimodal Anomaly Detection <br>
     Y. Jiang, Y. Cao, W. Shen* <br>
     <i>Computers in Industry <strong>(CAIE)</strong></i>. (Under Review, SCI Q1)
   </li>
