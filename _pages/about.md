@@ -98,7 +98,7 @@ Automotive Plastic Parts Defect Detection
 # 🥇 Honors and Awards
 - **National Scholarship for Master’s Students** (the highest scholarship for master’s students). Nov. 2024.
 - **National Scholarship for Bachelor’s Students** (the highest scholarship for bachelor’s students). Sep. 2019.
-# 🎓📚 Academic Service
+
 # 📖 Educations
 - ### *2024.09 - present, Huazhong University of Science and Technology*
   School of Mechanical Science and Engineering
