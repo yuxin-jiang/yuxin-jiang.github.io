@@ -12,12 +12,12 @@ repository               : "yuxin-jiang/yuxin-jiang.github.io"
 google_scholar_stats_use_cdn : False
 
 # google analytics
-google_analytics_id      :  # get google_analytics_id from https://analytics.google.com/analytics/
+# google_analytics_id      :  # get google_analytics_id from https://analytics.google.com/analytics/
 
 # SEO Related
-google_site_verification :  # get google_site_verification from https://search.google.com/search-console/about
-bing_site_verification   :  # get bing_site_verification from https://www.bing.com/webmasters/about
-baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.baidu.com/login/index?u=/site/index
+# google_site_verification :  # get google_site_verification from https://search.google.com/search-console/about
+# bing_site_verification   :  # get bing_site_verification from https://www.bing.com/webmasters/about
+# baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.baidu.com/login/index?u=/site/index
 
 # Site Author
 author:
@@ -27,7 +27,7 @@ author:
   location         : "Hubei, China"
   employer         :
   pubmed           : 
-  googlescholar    : "https://scholar.google.com/citations?user=02BC-WgAAAAJ"
+  googlescholar    : "https://scholar.google.com/citations?hl=en\&user=H7a_bi0AAAAJ"
   email            : "yuxinjiang@hust.edu.cn"
   researchgate     : 
   uri              :
@@ -43,12 +43,12 @@ author:
   instagram        :
   impactstory      : # e.g., "https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : # e.g., "linkedin username"
-  dblp             : # e.g., "https://dblp.org/pid/xx/xxxx.html"
-  orcid            : "https://orcid.org/0000-0003-1994-7301"
+  # linkedin         : # e.g., "linkedin username"
+  # dblp             : # e.g., "https://dblp.org/pid/xx/xxxx.html"
+  # orcid            : "https://orcid.org/0000-0003-1994-7301"
   pinterest        :
   soundcloud       :
-  stackoverflow    : # http://stackoverflow.com/users/123456/username
+  # stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
   twitter          : 
