@@ -37,10 +37,10 @@ If you are interested in my academic researches, please feel free to contact me 
 <h2 id="Peer-Reviewed Publications" style="color: #2c4a88; padding-top: 60px; margin-top: -60px;">Peer-Reviewed Publications</h2>
 <ol reversed>
   <li id="FA-Pub1">
-    Anomagic: Crossmodal Prompt-driven Zero-shot Anomaly Generation <a href="https://arxiv.org/pdf/2511.10020">[Paper]</a> <a href="https://github.com/yuxin-jiang/Anomagic">[Code]</a> <br>
+    Anomagic: Crossmodal Prompt-driven Zero-shot Anomaly Generation <a href="https://yuxin-jiang.github.io/Anomagic">[Project]</a> <a href="https://arxiv.org/pdf/2511.10020">[Paper]</a> <a href="https://github.com/yuxin-jiang/Anomagic">[Code]</a> <br>
     Y. Jiang, W. Luo, H. Zhang, Q. Chen, H. Yao, W. Shen*, Y. Cao* <br>
     <i>AAAI Conference on Artificial Intelligence <strong>(AAAI)</strong></i>. 2026. (CCF-A)
-  </li>
+</li>
   <li id="FA-Pub2">
     Prototypical Learning Guided Context-Aware Segmentation Network for Few-Shot Anomaly Detection <a href="https://scholar.google.com/citations?view_op=view_citation&hl=en&user=H7a_bi0AAAAJ&citation_for_view=H7a_bi0AAAAJ:2osOgNQ5qMEC">[Paper]</a> <a href="https://github.com/yuxin-jiang/PCSNet">[Code]</a> <br>
     Y. Jiang, Y. Cao, W. Shen* <br>
