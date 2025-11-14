@@ -37,7 +37,7 @@ If you are interested in my academic researches, please feel free to contact me 
 <h2 id="Peer-Reviewed Publications" style="color: #2c4a88; padding-top: 60px; margin-top: -60px;">Peer-Reviewed Publications</h2>
 <ol reversed>
   <li id="FA-Pub1">
-    Anomagic: Crossmodal Prompt-driven Zero-shot Anomaly Generation <a href="https://arxiv.org/pdf/2511.10020">[Paper]</a> <a href="https://github.com/yuxin-jiang/Anomagic">[Code]</a> <br>
+    Anomagic: Crossmodal Prompt-driven Zero-shot Anomaly Generation <a href="https://arxiv.org/pdf/2511.10020">[Paper]</a> <a href="https://github.com/yuxin-jiang/Anomagic">[Code]</a> <a href="https://yuxin-jiang.github.io/Anomagic">[Project Page]</a> <br>
     Y. Jiang, W. Luo, H. Zhang, Q. Chen, H. Yao, W. Shen*, Y. Cao* <br>
     <i>AAAI Conference on Artificial Intelligence <strong>(AAAI)</strong></i>. 2026. (CCF-A)
   </li>
