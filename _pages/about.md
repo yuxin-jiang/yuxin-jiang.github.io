@@ -38,32 +38,32 @@ If you are interested in my academic researches, please feel free to contact me 
 <ol reversed>
   <li id="FA-Pub1">
     Anomagic: Crossmodal Prompt-driven Zero-shot Anomaly Generation <a href="https://yuxin-jiang.github.io/Anomagic">[Project]</a> <a href="https://arxiv.org/pdf/2511.10020">[Paper]</a> <a href="https://github.com/yuxin-jiang/Anomagic">[Code]</a> <br>
-    Y. Jiang, W. Luo, H. Zhang, Q. Chen, H. Yao, W. Shen*, Y. Cao* <br>
+    Yuxin Jiang, Wei Luo, Hui Zhang, Qiyu Chen, Haiming Yao, Weiming Shen*, Yunkang Cao* <br>
     <i>AAAI Conference on Artificial Intelligence <strong>(AAAI)</strong></i>. 2026. (CCF-A)
 </li>
   <li id="FA-Pub2">
     Prototypical Learning Guided Context-Aware Segmentation Network for Few-Shot Anomaly Detection <a href="https://scholar.google.com/citations?view_op=view_citation&hl=en&user=H7a_bi0AAAAJ&citation_for_view=H7a_bi0AAAAJ:2osOgNQ5qMEC">[Paper]</a> <a href="https://github.com/yuxin-jiang/PCSNet">[Code]</a> <br>
-    Y. Jiang, Y. Cao, W. Shen* <br>
+    Yuxin Jiang, Yunkang Cao, Weiming Shen* <br>
     <i>IEEE Transactions on Neural Networks and Learning Systems <strong>(TNNLS)</strong></i>. 2024. (SCI Q1)
   </li>
   <li id="FA-Pub3">
     A Masked Reverse Knowledge Distillation Method Incorporating Global and Local Information for Image Anomaly Detection <a href="https://scholar.google.com/citations?view_op=view_citation&hl=en&user=H7a_bi0AAAAJ&citation_for_view=H7a_bi0AAAAJ:9yKSN-GCB0IC">[Paper]</a> <a href="https://github.com/yuxin-jiang/MRKD">[Code]</a> <br>
-    Y. Jiang, Y. Cao, W. Shen* <br>
+    Yuxin Jiang, Yunkang Cao, Weiming Shen* <br>
     <i>Knowledge-Based Systems <strong>(KBS)</strong></i>. 2023. (SCI Q1)
   </li>
   <li id="FA-Pub4">
     A Novel Bio-inspired Algorithm for Global Optimization Problems <a href="https://scholar.google.com/citations?view_op=view_citation&hl=en&user=H7a_bi0AAAAJ&citation_for_view=H7a_bi0AAAAJ:u-x6o8ySG0sC">[Paper]</a> <br>
-    Y. Jiang, Q. Wu*, S. Zhu, L. Zhang <br>
+    Yuxin Jiang, Qing Wu*, Shenke Zhu, Lin Zhang <br>
     <i>Expert Systems with Applications <strong>(ESWA)</strong></i>. 2022. (SCI Q1)
   </li>
   <li id="FA-Pub5">
     A Diversified Group Teaching Optimization Algorithm with a Segment-Based Fitness Strategy for UAV Route Planning <a href="https://scholar.google.com/citations?view_op=view_citation&hl=en&user=H7a_bi0AAAAJ&citation_for_view=H7a_bi0AAAAJ:u5HHmVD_uO8C">[Paper]</a> <br>
-    Y. Jiang, Q. Wu*, G. Zhang, S. Zhu, W. Xing <br>
+    Shenke Zhu, Qing Wu*, Yuxin Jiang, Wei Xing <br>
     <i>Expert Systems with Applications <strong>(ESWA)</strong></i>. 2021. (SCI Q1)
   </li>
   <li id="FA-Pub6">
     A Novel Multi-Objective Group Teaching Optimization Algorithm and Its Application to Engineering Design <a href="https://scholar.google.com/citations?view_op=view_citation&hl=en&user=H7a_bi0AAAAJ&citation_for_view=H7a_bi0AAAAJ:d1gkVwhDpl0C">[Paper]</a> <br>
-    S. Zhu, Q. Wu*, Y. Jiang, W. Xing <br>
+    Yuxin Jiang, Qing Wu*, Guozhong Zhang, Shenke Zhu, Wei Xing <br>
     <i>Computers & Industrial Engineering <strong>(CAIE)</strong></i>. 2021. (SCI Q1)
   </li>
 </ol>
@@ -71,15 +71,16 @@ If you are interested in my academic researches, please feel free to contact me 
 <ol reversed>
   <li id="FA-Manuscript1">
     VTFusion: A Vision-Text Multimodal Fusion Network for Few-Shot Anomaly Detection <br>
-    Y. Jiang, Y. Cao, Y. Cheng, Y. Zhang, W. Shen* <br>
+    Yuxin Jiang, Yunkang Cao, Yuqi. Cheng, Yiheng. Zhang, Weiming Shen* <br>
     <i>IEEE Transactions on Cybernetics <strong>(TCYB)</strong></i>. (Under Review, SCI Q1)
   </li>
   <li id="FA-Manuscript2">
     Bidirectional Adaptive Transformers for Multimodal Anomaly Detection <br>
-    Y. Jiang, Y. Cao, W. Shen* <br>
+    Yuxin Jiang, Yunkang Cao, Weiming Shen* <br>
     <i>Computers in Industry <strong>(CAIE)</strong></i>. (Under Review, SCI Q1)
   </li>
 </ol>
+
 # 💻 Projects 
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Work</div><img src='images/zhaogai.jpg' alt="sym" width="100%"></div></div>
