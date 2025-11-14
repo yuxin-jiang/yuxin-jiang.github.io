@@ -161,3 +161,28 @@ compress_html:
   clippings: all
   ignore:
     envs: development
+# 集合配置（隐藏不需要的导航项）
+collections:
+  teaching:
+    output: false  # 你未使用，禁用
+  portfolio:
+    output: false  # 你未使用，禁用
+  posts:
+    output: true   # 保留（如需博客功能）
+  publications:
+    output: true
+    title: "Publications"  # 你的现有板块，保留
+  talks:
+    output: false  # 禁用 Invited Talks
+  people:
+    output: false  # 你未使用，禁用
+  projects:
+    output: true
+    title: "Projects"  # 你的现有板块，保留
+  news:
+    output: true
+    title: "News"  # 你的现有板块，保留
+  service:
+    output: false  # 禁用 Academic Service
+  positions:
+    output: false  # 禁用 Internships（模板用 positions 对应实习）
