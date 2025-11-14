@@ -86,6 +86,7 @@ If you are interested in my academic researches, please feel free to contact me 
 <div class='paper-box-text' markdown="1">
 
 Automotive Plastic Parts Defect Detection
+
 [**Introduction**] <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 - Built a high-resolution imaging system for real-time automotive plastic parts inspection, using unsupervised anomaly detection to flag defects in production.
 
