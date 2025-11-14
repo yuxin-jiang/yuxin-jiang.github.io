@@ -18,12 +18,3 @@ main:
   - title: "Projects"
     url: "/#projects"  # 去掉多余横杠
 
-  # 以下为彻底注释的多余项（YAML 注释需 # 后加空格，且整行注释）
-  # - title: "Academic Service"
-  #   url: "/#academic-service"
-    
-  # - title: "Invited Talks"
-  #   url: "/#invited-talks"
-    
-  # - title: "Internships"
-  #   url: "/#internships"
