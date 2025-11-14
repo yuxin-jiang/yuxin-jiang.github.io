@@ -6,9 +6,9 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "Yuqi Cheng"
+title                    : "Yuxin Jiang"
 description              : "A Ph.D Student."
-repository               : "hustCYQ/chengyuqi.github.io"
+repository               : "yuxin-jiang/yuxin-jiang.github.io"
 google_scholar_stats_use_cdn : False
 
 # google analytics
@@ -21,14 +21,14 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 
 # Site Author
 author:
-  name             : "Yuqi Cheng"
+  name             : "Yuxin Jiang"
   avatar           : "images/android-chrome-512x512.png"
   bio              : "Huazhong University of Science and Technology"
   location         : "Hubei, China"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=02BC-WgAAAAJ"
-  email            : "yuqicheng@hust.edu.cn"
+  email            : "yuxinjiang@hust.edu.cn"
   researchgate     : 
   uri              :
   bitbucket        :
@@ -37,7 +37,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "hustCYQ"
+  github           : "yuxin-jiang"
   google_plus      :
   keybase          :
   instagram        :
