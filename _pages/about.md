@@ -82,7 +82,7 @@ If you are interested in my academic researches, please feel free to contact me 
 </ol>
 # 💻 Projects 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TIM 2024</div><img src='images/zhaogai.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Work</div><img src='images/zhaogai.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 Automotive Plastic Parts Defect Detection
