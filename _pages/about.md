@@ -80,6 +80,20 @@ If you are interested in my academic researches, please feel free to contact me 
     <i>Computers in Industry <strong>(CAIE)</strong></i>. (Under Review, SCI Q1)
   </li>
 </ol>
+# 💻 Projects 
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TIM 2024</div><img src='images/zhaogai.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+Automotive Plastic Parts Defect Detection
+[**Introduction**] <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+- Built a high-resolution imaging system for real-time automotive plastic parts inspection, using unsupervised anomaly detection to flag defects in production.
+
+[**Challenge**] <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+- Tiny defects, illumination dependency, scarce abnormal data; interclass gaps and multiangle variations hinder robust detection.
+</div>
+</div>
+
 # 🥇 Honors and Awards
 - **National Scholarship for Master’s Students** (the highest scholarship for master’s students). Nov. 2024.
 - **National Scholarship for Bachelor’s Students** (the highest scholarship for bachelor’s students). Sep. 2019.
