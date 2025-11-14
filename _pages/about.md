@@ -95,4 +95,4 @@ If you are interested in my academic researches, please feel free to contact me 
   School of Agricultural Mechanization and Automation Engineering
   ***B.S.*** in Agricultural Mechanization and Automation &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; (Top 3%)
   
-<script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=a&t=tt&d=GEx5UNgsTQZO0HXocUoir2X2jb3xYvYzLS-DAh9BvTY&co=2793de&ct=ffffff'></script>
+<!-- <script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=a&t=tt&d=GEx5UNgsTQZO0HXocUoir2X2jb3xYvYzLS-DAh9BvTY&co=2793de&ct=ffffff'></script> -->
