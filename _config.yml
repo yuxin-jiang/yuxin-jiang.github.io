@@ -123,6 +123,8 @@ defaults:
     values:
       layout: default
       author_profile: true
+      sidebar:
+        nav: "main"  # 强制使用 _data/navigation.yml 中的 main 导航
 
 # 集合配置（覆盖模板默认，隐藏不需要的导航项）
 collections:
