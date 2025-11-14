@@ -1,28 +1,29 @@
-# main links links
+# main links
 main:
   - title: "About Me"
     url: "/#about-me"
 
   - title: "News"
-    url: "/#-news"
+    url: "/#news"  # 原锚点“#-news”多余横杠，统一去掉
 
   - title: "Publications"
-    url: "/#-publications"
+    url: "/#publications"  # 去掉多余横杠，与页面锚点匹配
 
   - title: "Honors and Awards"
-    url: "/#-honors-and-awards"
+    url: "/#honors-and-awards"  # 去掉多余横杠
 
   - title: "Educations"
-    url: "/#-educations"
+    url: "/#educations"  # 去掉多余横杠
 
   - title: "Projects"
-    url: "/#-projects"
+    url: "/#projects"  # 去掉多余横杠
 
+  # 以下为彻底注释的多余项（YAML 注释需 # 后加空格，且整行注释）
   # - title: "Academic Service"
-  #   url: "/#-Academic Service"
+  #   url: "/#academic-service"
     
   # - title: "Invited Talks"
-  #   url: "/#-invited-talks"
+  #   url: "/#invited-talks"
     
   # - title: "Internships"
-  #   url: "/#-internships"
+  #   url: "/#internships"
