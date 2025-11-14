@@ -5,7 +5,7 @@ Yuxin Jiang
 
 <div align="center">
 
-Welcome to my [homepage](https://yuxin-jiang.github.io/): [hustJYX.github.io](https://yuxin-jiang.github.io/)
+Welcome to my [homepage](https://yuxin-jiang.github.io/): [yuxin-jiang.github.io](https://yuxin-jiang.github.io/)
 
 
 </div>
