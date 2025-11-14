@@ -27,7 +27,7 @@ author:
   location         : "Hubei, China"
   employer         :
   pubmed           : 
-  googlescholar    : "https://scholar.google.com/citations?hl=en\&user=H7a_bi0AAAAJ"
+  googlescholar    : "https://scholar.google.com/citations?hl=en&user=H7a_bi0AAAAJ"
   email            : "yuxinjiang@hust.edu.cn"
   researchgate     : 
   uri              :
@@ -57,7 +57,6 @@ author:
   xing             :
   youtube          :
   wikipedia        :
-
 
 # Reading Files
 include:
@@ -97,14 +96,12 @@ keep_files:
 encoding: "utf-8"
 markdown_ext: "markdown,mkdown,mkdn,mkd,md"
 
-
 # Conversion
 markdown: kramdown
 highlighter: rouge
 lsi: false
 excerpt_separator: "\n\n"
 incremental: false
-
 
 # Markdown Processing
 kramdown:
@@ -127,17 +124,44 @@ defaults:
       layout: default
       author_profile: true
 
+# 集合配置（覆盖模板默认，隐藏不需要的导航项）
+collections:
+  teaching:
+    output: false  # 未使用，禁用
+  portfolio:
+    output: false  # 未使用，禁用
+  posts:
+    output: true   # 保留（博客功能，不影响导航）
+  publications:
+    output: true
+    title: "Publications"  # 与你的页面板块一致
+  talks:
+    output: false  # 禁用「Invited Talks」导航项
+  people:
+    output: false  # 未使用，禁用
+  projects:
+    output: true
+    title: "Projects"  # 与你的页面板块一致
+  news:
+    output: true
+    title: "News"  # 与你的页面板块一致
+  service:
+    output: false  # 禁用「Academic Service」导航项
+  positions:
+    output: false  # 禁用「Internships」导航项（模板默认映射）
+  honors:
+    output: false  # 冗余集合，禁用
+  educations:
+    output: false  # 冗余集合，禁用
 
 # Sass/SCSS
 sass:
   sass_dir: _sass
   style: compressed # http://sass-lang.com/documentation/file.SASS_REFERENCE.html#output_style
 
-
 # Outputting
 permalink: /:categories/:title/
 timezone: Asia/Shanghai # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
-
 
 # Plugins
 plugins:
@@ -154,35 +178,9 @@ whitelist:
   - jekyll-feed
   - jemoji
 
-
 # HTML Compression
 # - http://jch.penibelst.de/
 compress_html:
   clippings: all
   ignore:
     envs: development
-# 集合配置（隐藏不需要的导航项）
-collections:
-  teaching:
-    output: false  # 你未使用，禁用
-  portfolio:
-    output: false  # 你未使用，禁用
-  posts:
-    output: true   # 保留（如需博客功能）
-  publications:
-    output: true
-    title: "Publications"  # 你的现有板块，保留
-  talks:
-    output: false  # 禁用 Invited Talks
-  people:
-    output: false  # 你未使用，禁用
-  projects:
-    output: true
-    title: "Projects"  # 你的现有板块，保留
-  news:
-    output: true
-    title: "News"  # 你的现有板块，保留
-  service:
-    output: false  # 禁用 Academic Service
-  positions:
-    output: false  # 禁用 Internships（模板用 positions 对应实习）
