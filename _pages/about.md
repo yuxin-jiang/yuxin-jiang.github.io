@@ -14,11 +14,16 @@ redirect_from:
 {% endif %}
 {% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
 <span class='anchor' id='about-me'></span>
-🌐欢迎来到我的主页！我是Jiang Y.（Y. Jiang），目前我在华中科技大学攻读博士学位，导师为[沈卫明教授](https://scholar.google.com/citations?hl=zh-CN&user=FuSHsx4AAAAJ&view_op=list_works&sortby=pubdate)。
+🌐欢迎来到我的主页！我是姜雨欣，目前在华中科技大学攻读博士学位，导师为[沈卫明教授](https://scholar.google.com/citations?hl=zh-CN&user=FuSHsx4AAAAJ&view_op=list_works&sortby=pubdate)。
+
 🌐Welcome to my homepage! I am Y. Jiang. I am currently a Ph.D. student at Huazhong University of Science and Technology under the supervision of Prof. [Weiming Shen](https://scholar.google.com/citations?hl=zh-CN&user=FuSHsx4AAAAJ&view_op=list_works&sortby=pubdate).
+
 我的研究方向围绕**异常检测**展开，涉及**视觉-语言模型**、**图像生成**和**计算机视觉**等.
+
 My research focuses on **Anomaly Detection**, involving **Vision-Language Models**, **Image Generation**, and **Computer Vision**, etc.
+
 如果对我的学术研究感兴趣，任何时候都可以联系我，我非常乐意与您进行交流！😊😊😊
+
 If you are interested in my academic researches, please feel free to contact me at any time, and I will be happy to communicate with you! 😊😊😊
 # 🔥 News
 - *2025.11*: &nbsp;🎉🎉 Our paper [Anomagic: Crossmodal Prompt-driven Zero-shot Anomaly Generation](https://arxiv.org/pdf/2511.10020) has been accepted by **AAAI (2026, CCF-A)**.
