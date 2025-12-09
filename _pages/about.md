@@ -38,6 +38,7 @@ If you are interested in my academic researches, please feel free to contact me 
 - *2021.11*: &nbsp;🎉🎉 Our paper [A Diversified Group Teaching Optimization Algorithm with a Segment-Based Fitness Strategy for UAV Route Planning](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=H7a_bi0AAAAJ&citation_for_view=H7a_bi0AAAAJ:u5HHmVD_uO8C) has been accepted by **Expert Systems with Applications (ESWA)**.
 - *2021.11*: &nbsp;🎉🎉 Our paper [A Novel Multi-Objective Group Teaching Optimization Algorithm and Its Application to Engineering Design](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=H7a_bi0AAAAJ&citation_for_view=H7a_bi0AAAAJ:d1gkVwhDpl0C) has been accepted by **Computers & Industrial Engineering (CAIE)**.
 - *2019.09*: &nbsp;🏆🏆 I received the **National Scholarship for Bachelor’s Students** (the highest scholarship for bachelor’s students).
+  
 # 📝 Publications
 <h2>
   <a href="#Peer-Reviewed Publications"><u>Peer-Reviewed Publications</u></a>&nbsp; <br>
