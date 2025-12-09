@@ -15,9 +15,11 @@ redirect_from:
 {% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
 <span class='anchor' id='about-me'></span>
 🌐欢迎来到我的主页！我是姜雨欣，目前在华中科技大学攻读博士学位，导师为[沈卫明教授](https://scholar.google.com/citations?hl=zh-CN&user=FuSHsx4AAAAJ&view_op=list_works&sortby=pubdate)。
+
 我的简历[![Download my CV (PDF)](https://img.shields.io/badge/Resume-PDF-blue?style=flat-square&logo=adobe-acrobat-reader)](https://github.com/yuxin-jiang/yuxin-jiang/raw/main/CV_Yuxin_JIANG.pdf?raw=true)
 
 🌐Welcome to my homepage! I am Y. Jiang. I am currently a Ph.D. student at Huazhong University of Science and Technology under the supervision of Prof. [Weiming Shen](https://scholar.google.com/citations?hl=zh-CN&user=FuSHsx4AAAAJ&view_op=list_works&sortby=pubdate).
+
 Resume [![Download my CV (PDF)](https://img.shields.io/badge/Resume-PDF-blue?style=flat-square&logo=adobe-acrobat-reader)](https://github.com/yuxin-jiang/yuxin-jiang/raw/main/CV_Yuxin_JIANG.pdf?raw=true)
 
 我的研究方向围绕**异常检测**展开，涉及**视觉-语言模型**、**图像生成**和**计算机视觉**等.
